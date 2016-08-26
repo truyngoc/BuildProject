@@ -1,0 +1,12 @@
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\bin\Release\BuildProject.exe.config
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\bin\Release\BuildProject.exe
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Release\BuildProject.frmBuildProject.resources
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Release\BuildProject.csproj.GenerateResource.Cache
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Release\BuildProject.exe
+D:\Shared\full\BuildProject v2.0\bin\Release\BuildProject.exe.config
+D:\Shared\full\BuildProject v2.0\bin\Release\BuildProject.exe
+D:\Shared\full\BuildProject v2.0\obj\Release\ResolveAssemblyReference.cache
+D:\Shared\full\BuildProject v2.0\obj\Release\BuildProject.frmBuildProject.resources
+D:\Shared\full\BuildProject v2.0\obj\Release\BuildProject.csproj.GenerateResource.Cache
+D:\Shared\full\BuildProject v2.0\obj\Release\BuildProject.exe

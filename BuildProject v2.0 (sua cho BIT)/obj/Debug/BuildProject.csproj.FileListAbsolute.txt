@@ -1,0 +1,48 @@
+D:\Setup\DevTools\BuildCode\BuildProject v2.0\bin\Debug\BuildProject.exe.config
+D:\Setup\DevTools\BuildCode\BuildProject v2.0\obj\Debug\BuildProject.exe
+D:\Setup\DevTools\BuildCode\BuildProject v2.0\obj\Debug\BuildProject.pdb
+D:\Setup\DevTools\BuildCode\BuildProject v2.0\bin\Debug\BuildProject.exe
+D:\Setup\DevTools\BuildCode\BuildProject v2.0\bin\Debug\BuildProject.pdb
+D:\Setup\DevTools\BuildCode\BuildProject v2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Setup\DevTools\BuildCode\BuildProject v2.0\obj\Debug\BuildProject.frmBuildProject.resources
+D:\Setup\DevTools\BuildCode\BuildProject v2.0\obj\Debug\BuildProject.csproj.GenerateResource.Cache
+D:\Projects\BuildProject v2.0\bin\Debug\BuildProject.exe.config
+D:\Projects\BuildProject v2.0\obj\Debug\BuildProject.exe
+D:\Projects\BuildProject v2.0\obj\Debug\BuildProject.pdb
+D:\Projects\BuildProject v2.0\bin\Debug\BuildProject.exe
+D:\Projects\BuildProject v2.0\bin\Debug\BuildProject.pdb
+D:\Projects\BuildProject v2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\BuildProject v2.0\obj\Debug\BuildProject.frmBuildProject.resources
+D:\Projects\BuildProject v2.0\obj\Debug\BuildProject.csproj.GenerateResource.Cache
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\bin\Debug\BuildProject.exe.config
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Debug\BuildProject.exe
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Debug\BuildProject.pdb
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\bin\Debug\BuildProject.exe
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\bin\Debug\BuildProject.pdb
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Debug\BuildProject.frmBuildProject.resources
+C:\Documents and Settings\hungtd5\Desktop\BuildProject v2.0\obj\Debug\BuildProject.csproj.GenerateResource.Cache
+D:\Shared\full\BuildProject v2.0\bin\Debug\BuildProject.exe.config
+D:\Shared\full\BuildProject v2.0\obj\Debug\BuildProject.exe
+D:\Shared\full\BuildProject v2.0\obj\Debug\BuildProject.pdb
+D:\Shared\full\BuildProject v2.0\bin\Debug\BuildProject.exe
+D:\Shared\full\BuildProject v2.0\bin\Debug\BuildProject.pdb
+D:\Shared\full\BuildProject v2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared\full\BuildProject v2.0\obj\Debug\BuildProject.frmBuildProject.resources
+D:\Shared\full\BuildProject v2.0\obj\Debug\BuildProject.csproj.GenerateResource.Cache
+C:\Users\Bui Ngoc Truy\Desktop\BuildProject v2.0\bin\Debug\BuildProject.exe.config
+C:\Users\Bui Ngoc Truy\Desktop\BuildProject v2.0\obj\Debug\BuildProject.exe
+C:\Users\Bui Ngoc Truy\Desktop\BuildProject v2.0\obj\Debug\BuildProject.pdb
+C:\Users\Bui Ngoc Truy\Desktop\BuildProject v2.0\bin\Debug\BuildProject.exe
+C:\Users\Bui Ngoc Truy\Desktop\BuildProject v2.0\bin\Debug\BuildProject.pdb
+C:\Users\Bui Ngoc Truy\Desktop\BuildProject v2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bui Ngoc Truy\Desktop\BuildProject v2.0\obj\Debug\BuildProject.frmBuildProject.resources
+C:\Users\Bui Ngoc Truy\Desktop\BuildProject v2.0\obj\Debug\BuildProject.csproj.GenerateResource.Cache
+F:\2012\Vi Pham\VICS\WIP\Users\TruyBN\Kien thuc tong hop\Oracle Examples\Tool generate code\BuildProject v2.0 (sua cho BIT)\bin\Debug\BuildProject.exe.config
+F:\2012\Vi Pham\VICS\WIP\Users\TruyBN\Kien thuc tong hop\Oracle Examples\Tool generate code\BuildProject v2.0 (sua cho BIT)\bin\Debug\BuildProject.exe
+F:\2012\Vi Pham\VICS\WIP\Users\TruyBN\Kien thuc tong hop\Oracle Examples\Tool generate code\BuildProject v2.0 (sua cho BIT)\bin\Debug\BuildProject.pdb
+F:\2012\Vi Pham\VICS\WIP\Users\TruyBN\Kien thuc tong hop\Oracle Examples\Tool generate code\BuildProject v2.0 (sua cho BIT)\obj\Debug\BuildProject.csprojResolveAssemblyReference.cache
+F:\2012\Vi Pham\VICS\WIP\Users\TruyBN\Kien thuc tong hop\Oracle Examples\Tool generate code\BuildProject v2.0 (sua cho BIT)\obj\Debug\BuildProject.frmBuildProject.resources
+F:\2012\Vi Pham\VICS\WIP\Users\TruyBN\Kien thuc tong hop\Oracle Examples\Tool generate code\BuildProject v2.0 (sua cho BIT)\obj\Debug\BuildProject.csproj.GenerateResource.Cache
+F:\2012\Vi Pham\VICS\WIP\Users\TruyBN\Kien thuc tong hop\Oracle Examples\Tool generate code\BuildProject v2.0 (sua cho BIT)\obj\Debug\BuildProject.exe
+F:\2012\Vi Pham\VICS\WIP\Users\TruyBN\Kien thuc tong hop\Oracle Examples\Tool generate code\BuildProject v2.0 (sua cho BIT)\obj\Debug\BuildProject.pdb
